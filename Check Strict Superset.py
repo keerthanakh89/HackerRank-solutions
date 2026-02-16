@@ -1,6 +1,5 @@
 # Read set A
 A = set(map(int, input().split()))
-
 # Number of other sets
 n = int(input())
 
