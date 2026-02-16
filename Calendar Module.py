@@ -5,5 +5,4 @@ days = [
     "MONDAY", "TUESDAY", "WEDNESDAY",
     "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"
 ]
-
 print(days[day_index])
