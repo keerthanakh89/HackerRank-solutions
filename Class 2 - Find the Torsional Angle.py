@@ -5,7 +5,6 @@ class Points(object):
         self.x = x
         self.y = y
         self.z = z
-
     def __sub__(self, no):
         return Points(
             self.x - no.x,
