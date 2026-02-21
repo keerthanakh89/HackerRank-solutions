@@ -11,7 +11,6 @@ class Points(object):
             self.y - no.y,
             self.z - no.z
         )
-
     def dot(self, no):
         return self.x * no.x + self.y * no.y + self.z * no.z
 
