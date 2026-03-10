@@ -19,7 +19,6 @@ class Points(object):
             self.z * no.x - self.x * no.z,
             self.x * no.y - self.y * no.x
         )
-
     def absolute(self):
         return math.sqrt(self.x**2 + self.y**2 + self.z**2)
 
