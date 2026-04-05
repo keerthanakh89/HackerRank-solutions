@@ -2,7 +2,6 @@
 A = set(map(int, input().split()))
 # Number of other sets
 n = int(input())
-
 # Assume A is a strict superset unless proven otherwise
 is_strict = True
 
