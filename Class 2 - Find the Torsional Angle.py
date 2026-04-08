@@ -23,7 +23,6 @@ class Points(object):
         return math.sqrt(self.x**2 + self.y**2 + self.z**2)
 
 
-
 if __name__ == '__main__':
     points = list()
     for i in range(4):
